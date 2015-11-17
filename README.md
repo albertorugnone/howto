@@ -41,47 +41,6 @@ or
     gitbook mobi . ./howto.mobi
 ```
 
-
-#Gitbook
-##How to build this book even if it is empty?
-
-- clone howto repository
-
-    
-    git clone https://github.com/albertorugnone/howto.git
-    cd howto/
-
-- install packages:
-
-    
-    npm -i -g
-
-or
-
-    npm -i gitbook-cli -g
-
-- init gitbook repository
-
-    
-    gitbook init
-    
-
-- install calibre 
-    
-
-    brew update
-    brew cask install calibre
-        
-- generate  book
-
-
-    gitbook pdf . ./howto.pdf
-
-or
-
-    gitbook mobi . ./howto.mobi
-
-
 #Future work
 We are at the really beginning. Infact this set of howto is quite empty :-)
 
