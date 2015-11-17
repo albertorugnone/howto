@@ -1,0 +1,11 @@
+{
+  "name": "howto",
+  "version": "0.1.1",
+  "description": "simply howtos",
+  "main": "README.md",
+  "author": "Alberto Rugnone",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "gitbook-cli": "^1.0.0"
+  }
+}
