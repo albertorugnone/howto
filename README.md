@@ -1,10 +1,10 @@
 SIMPLY HOWTO
 ============
-#Introduction
+# Introduction
 This is simply a set of how-to spreading in all field of technology that I usually touch.
 
-#Gitbook
-##How to build this book even if it is empty?
+# Gitbook
+## How to build this book even if it is empty?
 
 - clone howto repository
 ```
@@ -41,16 +41,15 @@ or
     gitbook mobi . ./howto.mobi
 ```
 
-#Ongoing work
+# Ongoing work
 - how to work locally using markdown in effective way
     - how to with [node-livereload](https://github.com/napcs/node-livereload)
     - how to with livereload  [gulp-livereload](https://www.npmjs.com/package/gulp-livereload)
 
-#Future work
+# Future work
 We are at the really beginning. Infact this set of howto is quite empty :-)
 
 The first step will be define the environment, then
-
 
 - how to link this to a blog
 - how to write a blog using markdown and then
