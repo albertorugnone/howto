@@ -45,6 +45,8 @@ or
 - how to work locally using markdown in effective way
     - how to with [node-livereload](https://github.com/napcs/node-livereload)
     - how to with livereload  [gulp-livereload](https://www.npmjs.com/package/gulp-livereload)
+    
+- how to install docker on Mac and configure it properly
 
 # Future work
 We are at the really beginning. Infact this set of howto is quite empty :-)
