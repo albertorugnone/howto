@@ -15,13 +15,13 @@ grep ^ausername /etc/passwd
 
 #add an not existing user to a group
 
-useradd -G <groupname> <username>
+useradd -G groupname username
 
 #add an existing user to a group
 
-sudo usermod -a -G <groupname>  <username>
+sudo usermod -a -G groupname  username
 
 #how to know groups of a user
 
-groups <username>
+groups username
 
