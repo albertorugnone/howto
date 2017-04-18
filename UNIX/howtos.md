@@ -25,3 +25,6 @@ sudo usermod -a -G groupname  username
 
 groups username
 
+#Chown recursive
+
+chwon -R 
