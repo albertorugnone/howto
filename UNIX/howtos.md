@@ -9,3 +9,7 @@ cut -d: -f1 /etc/group
 
 https://www.tutorialspoint.com/unix_commands/cut.htm
 
+#how to know if ausername exist
+
+grep ^ausername /etc/passwd
+
