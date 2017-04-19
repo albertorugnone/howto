@@ -28,3 +28,7 @@ groups username
 #Chown recursive
 
 chwon -R 
+
+#How to change group acl 
+
+setfacl -m g::rwx /path/to/directoryOrFile
