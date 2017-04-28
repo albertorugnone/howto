@@ -32,3 +32,7 @@ chwon -R
 #How to change group acl 
 
 setfacl -m g::rwx /path/to/directoryOrFile
+
+
+# lista risorse prese dal processo con pid
+sudo lsof -p pid
